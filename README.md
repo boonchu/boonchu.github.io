@@ -22,5 +22,6 @@ $ sudo yum install nodejs
 $ jekyll new my-awesome-site
 ```
 * run a new site
+```
 $ cd my-awesome-site && jekyll serve
 ```
