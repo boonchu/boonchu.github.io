@@ -1,7 +1,6 @@
 ##### [boonchu.github.io](http://boonchu.github.io/)
 
-* About me http://about.me/boonchu 
-* inspire by mdo
+* want to blog myself ideas (inspired by mdo)
 * why do I use github as my personal main page? Of course, github is awesome!
 * how to setup my github.io (great news is ... github.io supports Jekyll)
 * use Jekyll to convert simple text to blog type
