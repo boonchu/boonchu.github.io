@@ -26,3 +26,5 @@ $ jekyll new . (for current directory)
 ```
 $ cd my-awesome-site && jekyll serve
 ```
+
+##### [Choosing your themes](https://github.com/jekyll/jekyll/wiki/Themes)
