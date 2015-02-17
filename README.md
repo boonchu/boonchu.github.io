@@ -20,6 +20,8 @@ $ sudo yum install nodejs
 * create new site
 ```
 $ jekyll new my-awesome-site
+or
+$ jekyll new . (for current directory)
 ```
 * run a new site
 ```
