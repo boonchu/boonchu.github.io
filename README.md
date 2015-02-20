@@ -1,9 +1,31 @@
-##### Operational related topic about Linux users
+##### [boonchu.github.io](http://boonchu.github.io/)
 
-* note that all features are tested by using CentOS 7.x
-- [Daily Linux for admin](https://github.com/boonchu/opslab/tree/master/daily_linux)
-- [Monitoring with nagios (latest - 4.0.7)](https://github.com/boonchu/opslab/tree/master/monitoring/nagios)
-- [Graph your data with graphite](https://github.com/boonchu/opslab/tree/master/monitoring/graphite)
-- [Text mode UI design and implementation](https://github.com/boonchu/opslab/tree/master/tools/UI) 
-- [Chef Lab](https://github.com/boonchu/Cheflabs)
-- [Work ideas](https://github.com/boonchu/opslab/tree/master/tools/ideas)
+* want to blog myself ideas (inspired by mdo)
+* why do I use github as my personal main page? Of course, github is awesome!
+* how to setup my github.io (great news is ... github.io supports Jekyll)
+* use Jekyll to convert simple text to blog type
+
+##### install Jekyll for testing locally
+* start new VM from virtualbox and install CentOS7.x
+* follow this [ruby instructions](https://github.com/boonchu/rubylab)
+* install jekyll
+```
+$ gem install jekyll
+```
+* install nodejs package
+```
+$ sudo yum install nodejs 
+```
+* create new site
+```
+$ jekyll new my-awesome-site
+or
+$ jekyll new . (for current directory)
+```
+* run a new site
+```
+$ cd my-awesome-site && jekyll serve
+```
+
+##### [Choosing your themes](https://github.com/jekyll/jekyll/wiki/Themes)
+* choosing the right themes will be more attractive to followers.
