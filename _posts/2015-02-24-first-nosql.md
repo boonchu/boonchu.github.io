@@ -4,3 +4,4 @@
 
 ###### Service Discovery Tool
    * [Zookeeper](https://github.com/boonchu/zklab)
+   * [Zookeeper vs Eureka](http://www.knewton.com/tech/blog/2014/12/eureka-shouldnt-use-zookeeper-service-discovery/)
