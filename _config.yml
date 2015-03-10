@@ -9,7 +9,7 @@ relative_permalinks: true
 
 # Setup
 title:               Boonchu github
-tagline:             Contact me at bigchoo@gmail.com 
+tagline:             email me bigchoo@gmail.com 
 url:                 http://boonchu.github.io
 baseurl:             /
 
