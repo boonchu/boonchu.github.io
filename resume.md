@@ -28,6 +28,8 @@ Challenging responsibilities in IT environment to utilize analytical, problem so
 ### Expertise Summaries
 
 * 15 years overall experience in System and network Administration
+* Setup automation Configuration Management with Puppet/Chef/Git/Foreman/PE(Puppet Enterprise)
+* Understand the concept of Big Data (Apache Spark, Hadoop, etc.), PasS Cloud Platform Service
 * Supports Red Hat since OS launched from version 3.x
 * Supports Libvirt/KVM/XEN/LXC Virtualization platform.
 * Have been DevOps position to support service platform at Yahoo. Developed and Implemented PERL and Python tool to observe monitoring workloads, traffic statistic trending data for capacity planning, traffic analysis such as latency performance, service availabili- ty, coding PERL to gather performance statistics for performance tracking, creating front- page web to host graphs for traffic data analytics.
@@ -47,10 +49,12 @@ Challenging responsibilities in IT environment to utilize analytical, problem so
 
 *  HP UX Certified System Administrator (1999)
 *  Red Hat Certified Engineer 3 and 5 and 7
-RHCE 3 PIN: 803004155712436 (2004) RHCE 5 and RHCSA 7 PIN: 110-110-053
+    * RHCE 3 PIN: 803004155712436 (2004)
+    * RHCE 5 and RHCSA 7 PIN: 110-110-053
 *  Illinois Institute of Technology: Intelligent Information System/Database Design (2001)
 *  DEPAUL University: Java J2EE Enterprise Programming (2003)
 *  ITEL Service Management Level 1 Certification
+*  
 
 ### Experience Profile
 
