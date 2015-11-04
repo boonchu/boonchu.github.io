@@ -1,9 +1,4 @@
 Boonchu Ngampairoijpibul
-Current Address:
-
-```
-970 MERIDIAN AVE #45 SAN JOSE CA 95126
-```
 
 Contact:
 ```
